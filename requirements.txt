@@ -1,0 +1,5 @@
+# 纯 Python 回退方案所需的依赖（当系统未安装 Calibre 时使用）
+# 推荐优先安装 Calibre 以获得最佳转换质量，详见 README.md
+ebooklib>=0.18
+beautifulsoup4>=4.12
+xhtml2pdf>=0.2.16
